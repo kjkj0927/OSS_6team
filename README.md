@@ -17,7 +17,7 @@
 * [🍕 북문 (North Gate) 맛집 리스트](./north_gate.md)
 * [🌮 텍문 (Tech Gate) 맛집 리스트](./tech_gate.md)
 * [🍔 정문 (Main Gate) 맛집 리스트](./main_gate.md)
-* [🍜 쪽문 (Side Gate) 맛집 리스트](./south_gate.md)
+* [🍜 쪽문 (South Gate) 맛집 리스트](./south_gate.md)
 
 *(※ 팀원들은 각자 담당한 마크다운 파일 이름이 위 링크의 파일명과 일치하는지 확인해 주세요!)*
 
