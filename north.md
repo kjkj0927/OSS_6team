@@ -29,7 +29,7 @@
 
 # 1. 도톤
 
-<img src="images/doton.jpg" width="500">
+![도톤](doton.jpg)
 
 | 정보 | 내용 |
 |-----|-----|
