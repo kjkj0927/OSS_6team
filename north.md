@@ -29,7 +29,7 @@
 
 # 1. 도톤
 
-<img src="../images/doton.jpg" width="500">
+<img src="images/doton.jpg" width="500">
 
 | 정보 | 내용 |
 |-----|-----|
@@ -56,7 +56,7 @@
 
 # 2. 천계안동찜닭
 
-<img src="../images/jjimdak.jpg" width="500">
+<img src="images/jjimdak.jpg" width="500">
 
 | 정보 | 내용 |
 |-----|-----|
@@ -83,7 +83,7 @@
 
 # 3. 돈가스반상
 
-<img src="../images/donkatsu.jpg" width="500">
+<img src="images/donkatsu.jpg" width="500">
 
 | 정보 | 내용 |
 |-----|-----|
@@ -110,7 +110,7 @@
 
 # 4. 가향미 마라탕
 
-<img src="../images/malatang.jpg" width="500">
+<img src="images/malatang.jpg" width="500">
 
 | 정보 | 내용 |
 |-----|-----|
@@ -136,7 +136,7 @@
 
 # 5. 사군자민속촌
 
-<img src="../images/sagunja.jpg" width="500">
+<img src="images/sagunja.jpg" width="500">
 
 | 정보 | 내용 |
 |-----|-----|
