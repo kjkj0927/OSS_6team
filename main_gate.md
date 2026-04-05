@@ -62,7 +62,7 @@
 
 ### 5. 더히포🦛
 
-![더히포](https://postfiles.pstatic.net/MjAyNTA1MDVfMTMw/MDAxNzQ2NDQ0NDczNDA5.n9BCR5L_7xgsP_gaCoxqzYnI94Whzltl4apDQiLLkScg.3A_PzAwxhzWQyD8Gt1c2ZXxzdhxwqigheBTi3UozXEUg.JPEG/IMG_9243.jpg?type=w3840)
+![더히포](https://postfiles.pstatic.net/MjAyNTA1MDVfMTMw/MDAxNzQ2NDQ0NDczNDA5.n9BCR5L_7xgsP_gaCoxqzYnI94Whzltl4apDQiLLkScg.3A_PzAwxhzWQyD8Gt1c2ZXxzdhxwqigheBTi3UozXEUg.JPEG/IMG_9243.jpg?type=w3840) ![더히포2](https://postfiles.pstatic.net/MjAyNTA1MDVfMjQ4/MDAxNzQ2NDQzODYyODgy.HI2oomVOVJadAAH8ph81mikqeYX8K0GT2gU-3desCvEg.FsUljAR5GzLtJTLEoOZKqDJWdi7CBzzqpqgPbbrSF_kg.JPEG/IMG_9230.jpg?type=w3840)
 * **주소**: (도로명) 대구 북구 경대로7길 2 2층, (지번)대구 북구 대현동 24-31
 * **위치**:
 * **인기 메뉴**:
