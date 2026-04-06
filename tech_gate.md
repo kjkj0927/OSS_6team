@@ -23,7 +23,6 @@
 > **💬 한줄평:** "텍문하면 제일 먼저 떠오르는 한식 맛집"
 
 ![KakaoTalk_20260406_215411886](https://github.com/user-attachments/assets/04b99819-73bb-46a3-bfe3-93d537c5aa61)
-![KakaoTalk_20260406_215411886_01](https://github.com/user-attachments/assets/2529e603-d6d9-4bb2-a451-51e1afb57703)
 
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
@@ -45,7 +44,7 @@
 > **💬 한줄평:** "텍문 명실상부 돼지찌개 맛집"
 
 ![돼지찌개](https://github.com/user-attachments/assets/6baca1fb-645d-498a-91a4-e35ae6c2faf0)
-![선희제육](https://github.com/user-attachments/assets/efdaff83-6a04-4cd4-80b0-c2039f348ba2)
+
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
