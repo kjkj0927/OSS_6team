@@ -91,10 +91,14 @@
 ![더히포](https://postfiles.pstatic.net/MjAyNTA1MDVfMTMw/MDAxNzQ2NDQ0NDczNDA5.n9BCR5L_7xgsP_gaCoxqzYnI94Whzltl4apDQiLLkScg.3A_PzAwxhzWQyD8Gt1c2ZXxzdhxwqigheBTi3UozXEUg.JPEG/IMG_9243.jpg?type=w3840) 
 ![더히포2](https://postfiles.pstatic.net/MjAyNTA1MDVfMjQ4/MDAxNzQ2NDQzODYyODgy.HI2oomVOVJadAAH8ph81mikqeYX8K0GT2gU-3desCvEg.FsUljAR5GzLtJTLEoOZKqDJWdi7CBzzqpqgPbbrSF_kg.JPEG/IMG_9230.jpg?type=w3840)
 * **주소**: (도로명) 대구 북구 경대로7길 2 2층, (지번)대구 북구 대현동 24-31
-* **위치**:
-* **인기 메뉴**:
-* **가격대**:
-* **특징**:
+* **위치**: 경북대 정문에서 도보 2분 거리
+* **인기 메뉴**: 에그마요 피자, 잠봉 크림 파스타, 나폴리탄
+* **가격대**: 파스타: 9,500 ~ 10,500원, 피자: 15,900원
+* **특징**: - 매일 공수되는 신선한 재료와 수제 잠봉 사용
+  - 특제 소스로 조리된 파스타와 피자
+  - 오픈키친, 깔끔한 위생 관리
+  - 큰 창과 다양한 공간 구성으로 데이트, 친구 모임, 인스타 사진에 적합
+  - 가정식 느낌의 아늑한 인테리어
 
 ---
 
