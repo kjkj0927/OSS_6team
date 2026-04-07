@@ -14,7 +14,7 @@
 ## 🗺️ 맛집 리스트 (게이트별 바로가기)
 각 팀원들이 직접 조사하고 작성한 출입구별 맛집 리스트입니다. 아래 링크를 클릭하면 상세 페이지로 이동합니다.
 
-* [🍕 북문 (North Gate) 맛집 리스트](./north_gate.md)
+* [🍕 북문 (North Gate) 맛집 리스트](./north.md)
 * [🌮 텍문 (Tech Gate) 맛집 리스트](./tech_gate.md)
 * [🍔 정문 (Main Gate) 맛집 리스트](./main_gate.md)
 * [🍜 쪽문 (South Gate) 맛집 리스트](./south_gate.md)
