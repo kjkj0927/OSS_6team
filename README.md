@@ -25,7 +25,7 @@
 | 이름 | 학번 | 담당 구역 | GitHub Profile |
 | :---: | :---: | :--- | :--- |
 | 조성훈 | 2020115862 | 프로젝트 총괄 및 [텍문] 맛집 조사 | [@kjkj0927](https://github.com/kjkj0927) |
-| 김수하 | 2023006598 | [북문] 맛집 조사 | [@github-id](https://github.com/01064449357m-source) |
+| 김수하 | 2023006598 | [북문] 맛집 조사 | [@yesolchoii](https://github.com/01064449357m-source) |
 | 최예솔 | 2025006257 | [정문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 | 박정현 | 2025 | [쪽문] 맛집 조사 | [@github-id](https://github.com/github-id) |
 
