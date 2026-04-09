@@ -44,7 +44,9 @@
 ## 2. 타마시돈부리 (경북대본점) 🍛
 > **💬 한줄평:** "든든한 덮밥 한 그릇으로 오후 수업 에너지를 충전하는 곳"
 
-![타마시돈부리](images/donburi.jpg)
+![타마시돈부리](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjlfMTg0/MDAxNzc0NzkwNDY2NTc1.fmzmvij1e4Pa2pXC_oS5CiDnJP9AznaLCE4iFQT0ghAg.30pwPdakbC8IttbVSrj7KzorQjNnrEaURkrl9nPPekQg.JPEG/SE-2DC85350-88BD-408B-8A03-29D883A7A7EB.jpg?type=w800)
+![타마시돈부리](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjlfODQg/MDAxNzc0Nzg5NTU4NTA5.4OBG_6bGzszRl6kOn89w6OgW-5t6dz2HxNNlydeqZqcg.NyYl0vPsGI2hWrY1b4gMQxTEu96EtWnMtqj-YgO5EOog.JPEG/output%EF%BC%BF287454545.jpg?type=w800)
+![타마시돈부리](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMjlfMTkx/MDAxNzc0Nzc2MjI5MjY4.8Fp7Y0b6VioaDyGhUKhDFAsRzR4AQjI5R6v0_kNjkxkg.AvCBb_VaVcOXCvnuqT8q2s310a1Go6w6XLL9KCmkkmsg.JPEG/output%EF%BC%BF349762946.jpg?type=w800)
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,7 +67,8 @@
 ## 3. 다이마루 🍜
 > **💬 한줄평:** "진한 국물 맛이 일품인 쪽문의 라멘 강자"
 
-![다이마루](images/daimaru.jpg)
+![다이마루](https://mblogthumb-phinf.pstatic.net/MjAyNTA2MDNfMTc2/MDAxNzQ4OTM5NTYwNjUz.7Cn8lWDNRqeHGE63fOIoK2oQck51aMBysR1YELRwOf0g.Mu5zKpy3kqwfSbhUyRBI_9lXwytzp-TrYLoeZppf71Mg.JPEG/IMG_3059.jpg?type=w400)
+![다이마루](https://mblogthumb-phinf.pstatic.net/MjAyNTAxMTVfMjMz/MDAxNzM2OTMxMzQ4MTI5.kGiR1ZpFcwReUDdeomouasEKzmsMHFO738ayuX8yEgEg.yjrnNkuEdldFIt5gg87_VLSobqesj2FAgL5c_hhoRBog.JPEG/900%EF%BC%BF20241108%EF%BC%BF124135.jpg?type=w800)
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -86,7 +89,9 @@
 ## 4. 유정분식 🥘
 > **💬 한줄평:** "집밥이 그리울 때 찾는 쪽문의 영원한 안식처"
 
-![유정분식](images/yujeong.jpg)
+![유정분식](https://mblogthumb-phinf.pstatic.net/MjAyNDA2MDNfMTgy/MDAxNzE3NDI0Njc1MzU4.xMAjriTTiHMX9F_Jpzzwlkh7__E0k9Kobnma3u47AFAg.RKxaco1swMe5Pnqc5wy7QnTDdC5KLBjR9cClfzDGqBog.JPEG/IMG_0732.JPG?type=w800)
+![유정분식](https://mblogthumb-phinf.pstatic.net/MjAyNDA2MDNfMjY5/MDAxNzE3NDI0Njc1MjM0.zCZaIM-RSFa6mckQHewkOAZPfPU54Jl1zgrDBADClDgg.yHmCDsd1rLZ0LKMODhPSjvw_kW1g9ZImUuYVcJQG7kkg.JPEG/IMG_0726.JPG?type=w800)
+![유정분식](https://mblogthumb-phinf.pstatic.net/MjAyNTExMjVfMTYg/MDAxNzY0MDY5Nzc0NDE2.oAWhwVgMVTU9f-yCisj-lq9oUMAYzhUZFJEUTZf5qQ0g.k5ms0i3NLjYm7osD5nSyIHd-XG8Fb0wskAa-Mc4fInIg.JPEG/20251025_130054.jpg?type=w966)
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
@@ -105,7 +110,9 @@
 ## 5. 부리또익스프레스앤모어 🌯
 > **💬 한줄평:** "빠르고 간편하지만 맛은 결코 가볍지 않은 멕시칸 푸드"
 
-![부리또익스프레스](images/burrito.jpg)
+![부리또익스프레스](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDNfMTA1/MDAxNzcyNTAxNDA5NzYz.2zqfOh6sKVDAAw0JLhtjVSbQ2uBCc92W7xxOl6nLjS4g.D-D4V2IHiqWS9gbp2KGez3IQYxuJhfmM4FzfLDiITwgg.JPEG/SE-A78E4441-4EAC-49E5-AADB-DE6F9D850E95.jpg?type=w800)
+![부리또익스프레스](https://mblogthumb-phinf.pstatic.net/MjAyNjAzMDJfOTcg/MDAxNzcyNDUyMjI5MjM1.TPW4uETumm0d6018ozk3QPygXsNlcSjWWk_GH1C-oHIg.3KRUyukT2VaoVrmELHnW1hUFyvbuVNggbBOkIEYW3wkg.JPEG/IMG%EF%BC%BF6068.jpg?type=w800)
+
 
 | 분류 | 위치 | 영업시간 | 브레이크타임 | 휴무 |
 | :--- | :--- | :--- | :--- | :--- |
